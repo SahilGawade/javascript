@@ -1,1 +1,4 @@
+console.log("hello ajay");
+console.table({ name: "admin" });
+console.warn({ name: "admin" });
 
